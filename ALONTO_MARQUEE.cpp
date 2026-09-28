@@ -1,3 +1,9 @@
+/*
+MO3 - MARQUEE OPERATOR
+DEVELOPED BY: ALONTO, AZZAM
+CSOPESY-SO4
+*/
+
 #include <iostream>
 #include <string>
 #include <thread>
