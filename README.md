@@ -19,7 +19,7 @@ A simple C++ console program with a scrolling marquee on row 1 and a command pro
 | `stop_marquee` | Stop the marquee |
 | `exit` | Quit the program |
 
-## How to compile
+## How to compile (entry class file is ALONTO_MARQUEE.cpp
 
 ### Windows (MinGW / g++)
 
