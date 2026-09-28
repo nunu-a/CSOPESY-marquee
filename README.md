@@ -24,19 +24,20 @@ A simple C++ console program with a scrolling marquee on row 1 and a command pro
 ### Windows (MinGW / g++)
 
 ```bash
-g++ -std=c++17 -O2 -pthread main.cpp -o marquee.exe
+g++ -std=c++17 -O2 -pthread ALONTO_MARQUEE.cpp -o ALONTO_MARQUEE.exe
 ```
 
 ### Windows (MSVC)
 
 ```bash
-cl /std:c++17 /EHsc /O2 main.cpp
+cl /std:c++17 /EHsc /O2 ALONTO_MARQUEE.cpp
 ```
 
 ### Linux / macOS
 
 ```bash
-g++ -std=c++17 -O2 -pthread main.cpp -o marquee
+g++ -std=c++17 -O2 -pthread ALONTO_MARQUEE.cpp -o ALONTO_MARQUEE.exe
+```
 ```
 
 > The file must be saved as `main.cpp` (or change the name in the command to match yours).
@@ -46,19 +47,19 @@ g++ -std=c++17 -O2 -pthread main.cpp -o marquee
 ### Windows
 
 ```bash
-marquee.exe
+ALONTO_MARQUEE.exe
 ```
 
 or
 
 ```bash
-.\marquee.exe
+.\ALONTO_MARQUEE.exe
 ```
 
 ### Linux / macOS
 
 ```bash
-./marquee
+./ALONTO_MARQUEE
 ```
 
 ## Example session
