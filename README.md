@@ -38,9 +38,6 @@ cl /std:c++17 /EHsc /O2 ALONTO_MARQUEE.cpp
 ```bash
 g++ -std=c++17 -O2 -pthread ALONTO_MARQUEE.cpp -o ALONTO_MARQUEE.exe
 ```
-```
-
-> The file must be saved as `main.cpp` (or change the name in the command to match yours).
 
 ## How to run
 
