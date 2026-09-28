@@ -83,7 +83,6 @@ Terminating console...
 
 ## Notes
 
-- On Windows, run it in **Windows Terminal** for the smoothest animation. `cmd.exe` works but is slower.
 - Default speed is `150 ms`. Lower = faster, higher = slower.
 - Press `Ctrl+C` to force-quit. Type `exit` for a clean exit.
 
